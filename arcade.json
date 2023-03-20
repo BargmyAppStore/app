@@ -1,5 +1,5 @@
 ﻿{
-	"name": "Appstore",
+	"name": "App Store",
 	"version": "1.0.0.0",
 	"description": "",
 	"id": "",
@@ -9,15 +9,13 @@
 	"email": "",
 	"website": "",
 	"orientations": "any",
-	"c2version": "244",
+	"c2version": "279",
+	"ife": false,
 	"used-plugins": [
 		"Browser",
-		"Button",
 		"HTML_iFrame",
 		"List",
-		"NinePatch",
 		"Sprite",
-		"Text",
 		"Touch"
 	],
 	"used-behaviors": [
